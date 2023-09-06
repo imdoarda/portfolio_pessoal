@@ -1,65 +1,29 @@
-# Índice
+# ÍNDICE
+[PORTIFÓLIO PESSOAL](#portifólio-pessoal)
+[Descrição](#descrição)
+[Introdução](#introdução)
+[Funcionalidades](#funcionalidades)
+[Tecnologias Utilizadas](#tecnologias-utilizadas)
+[Fontes Consultadas](#fontes-consultadas)
+[Autores](#autores)
 
-[PROJETO : portifolio-pessoal](#projeto--portifolio-pessoal)  
+# PORTIFÓLIO PESSOAL
 
-[Descrição](#descri%C3%A7%C3%A3o)  
-
-[Introdução](#introdu%C3%A7%C3%A3o)  
-
-[Funcionalidades](#funcionalidades)  
-
-[Tecnologias](#tecnologias)  
-
-[Fontes Consultadas](#fontes-consultadas)  
-
-[AUTORES](#autores)  
-
- 
-
- 
-
- 
-
-# PROJETO : portifolio-pessoal
-
- 
-
-Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Boostrap.
-
- 
+    Projeto criado utilizando exemplo do Bootstrap para ensino de uso do README e do Bootstrap
 
 ## Descrição
-[Screenshot](capa.png)
- 
 
- 
 
 ## Introdução
 
- 
-
- 
 
 ## Funcionalidades
 
- 
 
- 
+### Tecnologias utilizadas
 
-### Tecnologias
-
- 
-
- 
 
 ## Fontes Consultadas
 
- 
 
- 
-
-## AUTORES
-
- 
-
- 
+## Autores
