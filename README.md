@@ -20,13 +20,18 @@
     
 ## Introdução
 
+    Neste projeto aprendemos a utilizar o Bootstrap e também a desenvolver melhor nossa habilidade na construção do arquivo README.
+     Bootstrap é um framework web com código-fonte aberto para desenvolvimento de componentes de interface e front-end para sites e aplicações web, usando HTML, CSS e JavaScript, baseado em modelos de design para a tipografia, melhorando a experiência do usuário em um site amigável e responsivo.  
+     O arquivo README é muito importante para nossa aprendizagem e nosso desenvolvimento dentro e fora do colégio.
 
 ## Funcionalidades
 
+    Possuí funcionalidade inicial de ajudar os alunos como ter melhorias na capacidade de preparação e construção do arquivo README nesse e em próximos projetos.
+    O aprendizado de construção do README será utilizado em todos os projetos enviados até o GITHUB, assim também melhorando as habilidades em escritas futuras, que serão utilizados dentro e fora do colégio, como em ambientes de trabalho.
 
 ### Tecnologias utilizadas
 
-HTML, CSS, VSCODE, Bootstrap, GitHub, Git
+HTML, CSS, VSCODE, Bootstrap, GitHub, Git.
 
 ## Fontes Consultadas
 
