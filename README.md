@@ -40,10 +40,10 @@ O aprendizado de construção do README será utilizado em todos os projetos env
 
 ## Fontes Consultadas
 
-[git hub](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - UM modelo para fazer um bom README
+[git hub](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - Um modelo para fazer um bom README
 
 [alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
->>>>>>> 677ec7589f8e5b4712bc42ad4a8c4844ca813c36
+
 
 ## Autores
 
