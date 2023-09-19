@@ -35,9 +35,9 @@ HTML, CSS, VSCODE, Bootstrap, GitHub, Git.
 
 ## Fontes Consultadas
 
-https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89
+[git hub](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) 
 
-https://www.alura.com.br/artigos/escrever-bom-readme
+[alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
 
 ## Autores
 
