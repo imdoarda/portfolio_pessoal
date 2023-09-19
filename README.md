@@ -31,17 +31,19 @@ O aprendizado de construção do README será utilizado em todos os projetos env
 
 ### Tecnologias utilizadas
 
-* ``HTML5``
-* ``CSS3`` 
+
+* ``CSS3``
 * ``VSCODE``
-* ``Bootstrap 5``
- GitHub, Git.
+*  ``Bootstrap5``
+*  ``GitHub``
+*  ``Git``
 
 ## Fontes Consultadas
 
-[lohhans](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - 
+[git hub](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89) - UM modelo para fazer um bom README
 
-[Alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+[alura](https://www.alura.com.br/artigos/escrever-bom-readme) - Como escrever um README incrível no seu Github
+>>>>>>> 677ec7589f8e5b4712bc42ad4a8c4844ca813c36
 
 ## Autores
 
